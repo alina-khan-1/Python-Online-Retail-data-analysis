@@ -109,18 +109,6 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn
 **Customer Loyalty:** Develop strategies to turn one-time buyers into repeat customers
 **Marketing:** Send email campaigns around mid-month and late mornings
 
-📁 Project Structure
-bash
-Copy
-Edit
-📂 online-retail-sales-analysis/
-│
-├── 📄 OnlineRetailEDA.ipynb       # Jupyter notebook with full analysis
-├── 📄 README.md                   # Project summary and insights (this file)
-├── 📄 online_retail.csv           # Dataset used
-├── 📂 images/                     # All generated charts and visuals
-└── 📄 requirements.txt            # List of required Python packages
-
 ## Skills Demonstrated
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
