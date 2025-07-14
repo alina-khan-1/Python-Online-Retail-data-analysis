@@ -18,9 +18,9 @@ The dataset contains transactional data from a UK-based online retail store over
 - How many customers are repeat vs one-time buyers?
 
 ## Tools & Libraries
-**Environment:** Visual Studio Code + Jupyter extension
-**Language:** Python
-**Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+ **Environment:** Visual Studio Code + Jupyter extension
+ **Language:** Python
+ **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 
 ## Process
 **1. Environment Setup**
