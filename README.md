@@ -100,14 +100,14 @@ The dataset contains transactional data from a UK-based online retail store over
 - Shows a classic drop-off pattern common in retail
 
 ## Final Summary & Recommendations
-**Peak Sales Time:** Late-year months (holiday season), weekdays, and mornings
-**Customer Behavior:** Strong weekday shopping activity, possibly during breaks or work hours
-**Product Strategy:**
+- **Peak Sales Time:** Late-year months (holiday season), weekdays, and mornings
+- **Customer Behavior:** Strong weekday shopping activity, possibly during breaks or work hours
+- **Product Strategy:**
   - Push high-volume + high-value products
   - Reassess or discontinue low-performing items
-**Geo Focus:** Target UK customers with special offers
-**Customer Loyalty:** Develop strategies to turn one-time buyers into repeat customers
-**Marketing:** Send email campaigns around mid-month and late mornings
+- **Geo Focus:** Target UK customers with special offers
+- **Customer Loyalty:** Develop strategies to turn one-time buyers into repeat customers
+- **Marketing:** Send email campaigns around mid-month and late mornings
 
 ## Skills Demonstrated
 - Data Cleaning & Preprocessing
